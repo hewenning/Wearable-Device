@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\code\match\gaodexaut\app\libs\AMap2DMap_4.2.0_AMapSearch_5.1.0_AMapLocation_3.4.0_20170517.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00f48e51e2e7a77516254f54e66a0cc0cd791e92">
+        <dex dex="G:\code\match\gaodexaut\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap2DMap_4.2.0_AMapSearch_5.1.0_AMapLocation_3.4.0_20170517_e2c7ab5465c8bcf49adacd79b97927d3d84fc9eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\code\match\gaodexaut\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="G:\code\match\gaodexaut\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cf701c2d25dd7b7d93e2344c3afde0bd8df7b273\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\code\match\gaodexaut\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b96ba11470f971f92649a20565dd6e6b7e19b4f">
+        <dex dex="G:\code\match\gaodexaut\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fc3abd1620f9b15622adf65494c465466bd933b7\classes.dex" />
+    </item>
+
+</items>
